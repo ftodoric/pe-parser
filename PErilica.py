@@ -10,7 +10,7 @@ import sys
 #
 #@date: 31 June 2019
 #@version: Python 3.7.1
-#@author: Physx
+#@author: ftodoric
 #===============================================================================================
 
 DISPLAY_LAYOUT_WIDTH = 35
