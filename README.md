@@ -1,6 +1,6 @@
 # PE-parser  
   
-Perilica.py is a PE (Portable Executable) file format parser.  
+PErilica.py is a PE (Portable Executable) file format parser.  
 Sections of loaded PE file are parsed and relevant data are displayed on
 standard output.
 
