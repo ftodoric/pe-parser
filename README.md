@@ -1,8 +1,8 @@
 # PE-parser  
   
 PErilica.py is a PE (Portable Executable) file format parser.  
-Sections of loaded PE file are parsed and relevant data are displayed on
+Sections of loaded PE file are parsed and relevant data is displayed on
 standard output.
 
-Author: ftodoric  
-Date: 29/05/2020
+_ftodoric_  
+_29/05/2020_
